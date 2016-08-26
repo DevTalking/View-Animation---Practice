@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>targetPlace</key>
+		<string>WUHAN</string>
+		<key>sourcePlace</key>
+		<string>BEIJING</string>
+		<key>tg</key>
+		<string>T3 - 11</string>
+		<key>flightNo</key>
+		<string>HK0007</string>
+		<key>depatureTime</key>
+		<string>11 JUL 2015 9:45 AM</string>
+		<key>landTime</key>
+		<string>11 JUL 2015 11:45 AM</string>
+		<key>flightStatus</key>
+		<string>LANDED</string>
+		<key>bg</key>
+		<string>bg1</string>
+	</dict>
+	<dict>
+		<key>targetPlace</key>
+		<string>XIAN</string>
+		<key>sourcePlace</key>
+		<string>TIANJING</string>
+		<key>tg</key>
+		<string>T2 - 10</string>
+		<key>flightNo</key>
+		<string>KJ0003</string>
+		<key>depatureTime</key>
+		<string>11 JUN 2015 6:45 AM</string>
+		<key>flightStatus</key>
+		<string>DEPATURE</string>
+		<key>landTime</key>
+		<string>11 JUN 2015 9:45 AM</string>
+		<key>bg</key>
+		<string>bg2</string>
+	</dict>
+	<dict>
+		<key>targetPlace</key>
+		<string>XIJIANG</string>
+		<key>sourcePlace</key>
+		<string>BAOJI</string>
+		<key>tg</key>
+		<string>T3 - 08</string>
+		<key>flightNo</key>
+		<string>WJ0093</string>
+		<key>depatureTime</key>
+		<string>9 FEB 2015 6:45 AM</string>
+		<key>flightStatus</key>
+		<string>LANDED</string>
+		<key>landTime</key>
+		<string>9 FEB 2015 8:45 AM</string>
+		<key>bg</key>
+		<string>bg3</string>
+	</dict>
+</array>
+</plist>
